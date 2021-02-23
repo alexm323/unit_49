@@ -1,0 +1,22 @@
+1. Why do you want to be a software engineer?
+
+I love solving problems. Software development affords me the opportunity to be creative with my problem solving while simultaneously being technically interesting because of the various routes we can take to arrive at a solution. 
+As an engineer you have to be comfortable with hitting walls and moving forward, finding alternative solutions, and trying to anticipate problems that have not happened yet.
+When you do finally solve a difficult problem it really feels like a moment of enlightenment.
+I want to be a software engineer because I want to be able to solve problems and find solutions. I want to find that enlightenment. 
+
+2. Why do you want to work at this company? (going to use a job that is for python backend engineering as an example)
+
+I feel particularly well suited to this position because the majority of my experience has involved the use of Python for different projects.
+This role seems like a good fit to allow me to grow my skillset while making meaningful contributions. 
+I am excited about this opportunity because I would be able to continue working in a tech stack I am familiar with so I can hit the ground running. 
+
+
+3. Tell me about a time you had to handle a conflict with your colleagues.
+
+I was a case manager for a program where I had to connect recently laid off individuals to job training programs that would help them achieve gainful employment. 
+I had an intern that was constantly missing deadlines to get progress reports from participants. I remained calm about the situation and acknowledged that the deadlines were challenging to meet 
+so I asked about what I could do as a manager to help them improve their performance. The intern admitted to me that she was also being tasked with additional responsibilities from an outside project 
+that involved calling several dozen people each day. We got together with the other case manager that had given her the task and we came to a resolution that resulted in some of their workload being reduced 
+and for the remainder of their time with me the intern's performance was stellar. 
+
